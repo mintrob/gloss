@@ -1,0 +1,18 @@
+{
+  "name": "gloss",
+  "version": "1.0.0",
+  "description": "Lightweight MERN Blog Platform",
+  "main": "index.js",
+  "engines": {
+    "node": "12.6.0",
+    "npm": "6.9.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Robert Cheatham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
